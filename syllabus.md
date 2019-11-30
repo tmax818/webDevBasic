@@ -30,6 +30,20 @@
 - 59 minutes
 - 13 sections:
 
+    15. [Unit Objectives]()
+    16. [HTML Basics]()
+    17. [Note about Introduction to MDN]()
+    18. [Introduction to MDN]()
+    19. [HTML Boilerplate and Comments]()
+    20. [Basic Tags](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/3861198#content)
+    21. [HTML Lists](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/3861200#overview)
+    22. [HTML Lists Assignment]()
+    23. [HTML Lists Assignment: SOLUTION]()
+    24. [Divs and Spans]()
+    25. [HTML Attributes]()
+    26. [Recreate Webpage Assignment]()
+    27. [Recreate Webpage Assignment: SOLUTION]()
+
 
 ## Section 4 Intermediate HTML
 

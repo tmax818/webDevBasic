@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Tabs</title>
+
+    <style>
+    
+/* nave style */
+nav {
+    border-bottom: 1px solid black;
+}
+
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.crumb {
+    display: inline-block;
+}
+
+.crumb a::after {
+    display: inline-block;
+    color: #000;
+    content: '>';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 3px;
+}
+
+/* blockquote */
+
+blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
+}
+
+
+    </style>
+</head>
+<body>
+
+<h1>address</h1>
+<p>Contact the author of this page:</p>
+
+<address>
+  <a href="mailto:jim@rock.com">jim@rock.com</a><br>
+  <a href="tel:+13115552368">(311) 555-2368</a>
+</address>
+
+<h1>nav</h1>
+
+<nav class="crumbs">
+        <ol>
+            <li class="crumb"><a href="bikes">Bikes</a></li>
+            <li class="crumb"><a href="bikes/bmx">BMX</a></li>
+            <li class="crumb">Jump Bike 3000</li>
+        </ol>
+    </nav>
+    
+    <h1>Jump Bike 3000</h1>
+    <p>This BMX bike is a solid step into the pro world. It looks as legit as it rides and is built to polish your skills.</p>
+
+    <h1>blockquote</h1>
+
+    <blockquote cite="https://www.huxley.net/bnw/four.html">
+        <p>Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced.</p>
+        <footer>—Aldous Huxley, <cite>Brave New World</cite></footer>
+    </blockquote>
+    
+
+</body>
+</html>
