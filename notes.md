@@ -144,3 +144,13 @@
 - way of adding additional info to html elements
 - key/value pair
 - [mdn attribute ref](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+
+
+
+
+
+
+
+
+
+## Section 4 Intermediate HTML
